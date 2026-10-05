@@ -1,5 +1,7 @@
 # Causal Impact Analysis — Marketing Campaigns
 
+> **Maintained by [Jennita S](https://github.com/Jennita-Santhakumar)** · [LinkedIn](https://linkedin.com/in/jennitas) · jennitasanthakumar0@gmail.com
+
 A causal-inference engine for measuring the true effect of a marketing campaign on customer
 spend, when campaign exposure was **not** randomly assigned. Implements propensity score
 matching (PSM), inverse probability weighting (IPW), difference-in-differences (DiD) on panel
@@ -134,3 +136,7 @@ result.
 
 FastAPI · SQLAlchemy · Postgres · scikit-learn · NumPy/SciPy/Pandas · React 18 · Vite · Recharts
 · Docker Compose · GitHub Actions CI
+
+## Credits
+
+Developed by Kabilesh Rajaselvan with contributions from Jennita S.
